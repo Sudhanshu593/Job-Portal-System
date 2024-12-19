@@ -60,6 +60,8 @@ View: Provides dynamic rendering using EJS templates.
 
 Controller: Manages routing and application logic.
 
+
+
 Installation
 
 Prerequisites:
@@ -142,5 +144,6 @@ Recruiter dashboard with analytics.
 Role-based access control for different types of users.
 
 Deployment enhancements for scalability and performance.
+
 
 Feel free to contribute and enhance the project!
