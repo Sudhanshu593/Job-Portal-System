@@ -89,17 +89,6 @@ node server.js
 Open your browser and navigate to http://localhost:3000.
 
 
-Folder Structure
-
-Job-Portal-System/
-├── public/                # Static files (CSS, JS, Resumes)
-├── views/                 # EJS templates
-├── models/                # Application models (Recruiter, Jobs, Applicants)
-├── controllers/           # Route handling logic
-├── middleware/            # Custom middleware (auth, file uploads)
-├── server.js              # Main server file
-└── package.json           # Project dependencies and scripts
-
 API Endpoints
 
 Auth Routes:
