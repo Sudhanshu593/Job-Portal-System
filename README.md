@@ -88,15 +88,6 @@ node server.js
 
 Open your browser and navigate to http://localhost:3000.
 
-Deployment
-
-Netlify:
-
-Frontend hosted on Netlify.
-
-Backend:
-
-Backend can be hosted on platforms like Heroku, Vercel, or Railway.
 
 Folder Structure
 
